@@ -37,7 +37,10 @@ a{
     color: white;
 }
 .headimg{
-    width: 600px;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
 }
 .head2{
     display: flex;
